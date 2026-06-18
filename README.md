@@ -1,8 +1,8 @@
 # Hi, I'm Erik Olvera 👋
 
-CS student at Texas State University building AI-powered apps, full-stack tools, and data-driven projects — always shipping something real.
+CS grad from Texas State University building AI-powered apps, full-stack tools, and data-driven projects — always shipping something real.
 
-📍 Houston, TX &nbsp;|&nbsp; 🎓 Computer Science @ Texas State &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/erikolvera/)
+📍 Houston, TX &nbsp;|&nbsp; 🎓 CS, Texas State University (May 2026) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/erikolvera/)
 
 ---
 
