@@ -21,7 +21,7 @@ CS grad from Texas State University building AI-powered apps, full-stack tools, 
 
 ## 🛠 Tech Stack
 
-**Languages:** Python &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Java &nbsp;·&nbsp; SQL
+**Languages:** Python &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; SQL
 
 **Frontend:** React &nbsp;·&nbsp; Tailwind CSS &nbsp;·&nbsp; Framer Motion &nbsp;·&nbsp; Vite
 
@@ -43,4 +43,3 @@ CS grad from Texas State University building AI-powered apps, full-stack tools, 
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/erikolvera/)
-- - 🐙 [GitHub](https://github.com/erikolvera)
